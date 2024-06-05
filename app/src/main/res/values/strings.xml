@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Афсонаҳо</string>
+    <string name="company_name">Kangaroo apps</string>
+    <string name="home_label">Асосӣ</string>
+    <string name="fav">Мунтахаб</string>
+    <string name="search">Ҷустуҷӯ</string>
+    <string name="search_points">Ҷустуҷӯ...</string>
+    <string name="removed_from_fav">Афсона аз мунтахаб гум карда шуд</string>
+    <string name="added_to_fav">Афсона ба мунтахаб дохил карда шуд</string>
+    <string name="notificationMessage">Афсона барои имрӯз: </string>
+    <string name="channel_description">Ба ёди шумо мерасонем, то ки барномаи мо аз хотиратон наравад!</string>
+</resources>
